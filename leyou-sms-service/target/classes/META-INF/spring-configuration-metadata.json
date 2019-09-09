@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.leyou.sms.config.SmsProperties",
+      "name": "leyou.sms",
+      "type": "com.leyou.sms.config.SmsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.leyou.sms.config.SmsProperties",
+      "name": "leyou.sms.access-key-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.sms.config.SmsProperties",
+      "name": "leyou.sms.access-key-secret",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.sms.config.SmsProperties",
+      "name": "leyou.sms.sign-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.sms.config.SmsProperties",
+      "name": "leyou.sms.verify-code-template",
+      "type": "java.lang.String"
+    }
+  ]
+}
